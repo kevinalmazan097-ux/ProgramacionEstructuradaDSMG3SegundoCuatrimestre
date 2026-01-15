@@ -23,3 +23,5 @@ El repositorio está organizado de la siguiente manera:
     * `ejercicios/`: Problemas propuestos para practicar y aplicar los conocimientos.
 * **`docs/`**: Documentación adicional, explicaciones de conceptos y guías.
 * **`README.md`**: Este archivo.
+
+![This is an alt text.](./img/java.png "This is a sample image.")
