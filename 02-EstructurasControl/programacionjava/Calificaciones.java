@@ -1,7 +1,7 @@
 
 import javax.swing.JOptionPane;
 
-public class Calificasiones {
+public class Calificaciones {
 
     public static void main(String[] args) {
         //Declaracion de variables
